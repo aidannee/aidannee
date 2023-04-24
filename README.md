@@ -1,4 +1,4 @@
-# Hi I'm Aidan, but my friends and family call me Aido 👋🏻
+# I'm Aidan, but my friends and family call me Aido 👋🏻
 
 [![Linkedin Badge](https://img.shields.io/badge/-Aidan%20Nee-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aidannee/)](https://www.linkedin.com/in/aidannee/)
 
