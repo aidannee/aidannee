@@ -1,6 +1,6 @@
 # Hi I'm Aidan, but my friends and family call me Aido 👋🏻
 
-[![Linkedin Badge](https://img.shields.io/badge/-aidan%20neee-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aidannee/)](https://www.linkedin.com/in/aidannee/)
+[[![Linkedin Badge](https://img.shields.io/badge/-aidan%20neee-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aidannee/)](https://www.linkedin.com/in/aidannee/)](https://img.shields.io/badge/-Aidan%20Neee-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aidannee/)](https://www.linkedin.com/in/aidannee/)
 
 **Languages and Tools:**
 
